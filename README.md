@@ -1,4 +1,12 @@
-## Hi there 👋
+#### Hi there 👋
+
+**I'm a Biotechnologist (MSc), Biology Teacher, Bioinformatician, and a programmer constantly leveling up.** 
+I am passionate about Genomics and Evolution, using code to understand how this beautiful combination works.
+
+- 🧬 I’m currently working on [SRA-QC-Analysis](https://github.com/badecisions/SRA-QC-Analysis) and [rosalind-challenges](https://github.com/badecisions/rosalind-challenges)
+- ⚙️ I mainly use: `.py`, `.sh`, `.r`, `.fasta`, `.fastq` | 🐧 **Linux (Bluefin)**
+- 📚 I’m currently learning **Pandas**, **Docker**, **R** and improving **Python**
+- 📫 You can reach me: [E-mail](mailto:arthurbatistant@gmail.com)
 
 <!--
 **badecisions/badecisions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
